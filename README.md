@@ -1,3 +1,7 @@
+⚠️
+This repository is archived. Please use https://github.com/ramalok/PIDA instead.
+⚠️
+
 [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/PIDA)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/PIDA) [![GloBI review](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/review.svg)](https://depot.globalbioticinteractions.org/reviews/globalbioticinteractions/PIDA/README.txt)
 
 ![PIDA](https://github.com/ramalok/PIDA/blob/master/pida.png)
