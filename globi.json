@@ -12,6 +12,7 @@
     "dcterms:bibliographicCitation" : "Bjorbækmo, M. F. M., Evenstad, A., Røsæg, L. L., Krabberød, A. K., Logares, R. (2019) The planktonic protist interactome: emerging trends after a century of research. doi: https://doi.org/10.1101/587352",
     "delimiter" : "\t",
     "headerRowCount" : 3,
+    "deprecated": true,
     "null" : [ "NA" ],
     "tableSchema" : {
       "columns" : [ {
